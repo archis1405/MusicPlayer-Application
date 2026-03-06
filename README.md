@@ -1,6 +1,5 @@
 # 🎵 Music Player - React Native Intern Assignment
 
-=======
 # Music Player - React Native Intern Assignment
 ```
 It music streaming app built with React Native + Expo, featuring persistent playback, offline downloads, and many more.
